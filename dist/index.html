@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Acadza · Faculty review</title>
+<link rel="stylesheet" href="style.css">
+<script src="app.js" type="module"></script>
+</head>
+<body>
+<header><span class="brand">acadza<span>.</span></span><span>Faculty workspace</span><span class="mode">Review snapshot</span><button id="theme" class="theme" type="button" aria-pressed="false">Dark mode</button></header>
+<div class="intro"><div class="kicker">CONTENT QUALITY</div><h1>Question review</h1><p>Check student reports, verify the evidence, and decide what changes.</p></div>
+<div class="layout">
+<aside>
+  <div class="queue-head">
+    <h2>Queue</h2>
+    <label for="search">Search questions</label>
+    <input id="search" type="search" placeholder="Stem, report, chapter or ID">
+    <div class="filters">
+      <label>Review status<select id="filter"><option value="pending">Needs review</option><option value="all">All questions</option><option value="done">Reviewed</option></select></label>
+      <label>Question type<select id="type-filter"><option value="">All types</option><option value="scq">Single correct</option><option value="mcq">Multiple correct</option><option value="integerQuestion">Integer</option></select></label>
+      <label>Subject<select id="subject-filter"><option value="">All subjects</option></select></label>
+      <label>Verdict<select id="verdict-filter"><option value="">All verdicts</option></select></label>
+    </div>
+    <p id="count" role="status"></p>
+  </div>
+  <nav id="queue" aria-label="Review queue"></nav>
+</aside>
+<main id="detail" aria-live="polite">Loading cases…</main>
+</div>
+</body></html>

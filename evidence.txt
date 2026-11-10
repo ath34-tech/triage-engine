@@ -1,0 +1,39 @@
+001|answer_key|The series voltage is sqrt(40² + (60 − 30)²) = 50 V, option A. The stored key is C.
+004|answer_key|The kinetic theory formula gives 0.09 × 400² / 3 = 4800 Pa, option D. The stored key is A and the suggested 8225 Pa is option B.
+005|answer_key|By symmetry the face charge contributes (q/2)/(2ε₀) and the corner charge contributes 2q/(8ε₀). Together they give q/(2ε₀), so n = 1, not 2.
+006|stem_data|The solution assumes a 10 cm edge. With this edge, ΔV = (7×10⁶ / 1.4×10¹¹) × (0.1 m)³ = 50 mm³.
+007|stem_data|The solution uses 95.5 mH. At 50 Hz that gives approximately 30 Ω reactance and 50 Ω impedance.
+009|option_repair|Only A through C are stored. Conservation of momentum gives 10 m/s (C), but the missing distractor requires faculty authorship.
+011|option_repair|Option C is blank. Newton’s third law gives equal force magnitudes, so C should read 1:1.
+012|spelling|Option A misspells epithelial tissue. The correction preserves its meaning.
+013|exam_reference|The leading exam reference is extraneous to the stem and options.
+014|markup_leak|The literal LaTeX fraction is visible in the stem. Seven eighths decays in three half-lives, or 180 days.
+015|identical_options|Options B and C both give zero power, which follows from the 90° phase difference. A faculty member must author the replacement.
+016|solution_fix|The removed mass displaced 800 cm³ of water. The change in immersed volume is 2a², so a² = 400 and a = 20 cm.
+017|already_fixed|The current options use “more”; the reported spelling “mere” is absent.
+018|solution_fix|Using p = h/λ and K = p²/(2m) gives about 16.7 eV, matching B. The stored solution instead calculates a different wavelength.
+020|answer_key|A and B follow from constant electric acceleration; D follows from perpendicular magnetic motion. The MCQ key stores three selections as one comma-separated string.
+021|type_mismatch|The mean life is 3/ln(8) ≈ 1.44 min, uniquely B. The record is MCQ with an empty extra key entry.
+022|spelling|“Choroid plexux” should read “Choroid plexus” in option D.
+023|wrong_chapter|The stem tests sodium-channel inactivation during neuronal action potentials. Faculty should confirm the destination chapter.
+024|answer_form|The answer field expects a numerical force in newtons. The stem gives no output unit.
+025|diagram|The stem references a figure and there is no image in the stored question.
+026|syllabus|A faculty member should check the scope of ancestral-state inference against the target syllabus.
+027|no_error|The expansion coefficient is 3 × 0.19/(100 × 100) = 5.7×10⁻⁵ per °C, option A. The comment offers no evidence for C.
+028|no_error|Equating range and height gives tan θ = 4, so B is correct.
+029|no_error|Eliminating F from the two equations gives friction of 80 N against a 100 N normal force, so μ = 0.8.
+030|no_error|At two seconds v = A(π/8)cos(π/4), so A = 8√2 m, option D.
+031|no_error|The angular displacement difference is πt²/8. The first nonzero alignment is at 2π, giving t = 4 s.
+032|no_error|The shift is 0.08 m, which is 8 cm as requested.
+033|no_error|The measured side has four significant figures, so the area is 311.3 m² and 10A = 3113.
+034|no_error|At 90° the interference cross term vanishes. The result is 2I, twice the intensity of one wave.
+035|no_error|Relaxin and inhibin have different primary functions and are not an antagonistic pair.
+036|display_issue|All four options are present in storage. The reported clipping is a device rendering issue.
+037|display_issue|The report concerns loading speed. The stored question is complete and the photoelectric calculation gives 1.1 V.
+038|app_issue|Option A is the correct key since momentum scales with the square root of kinetic energy. The report concerns saved selection.
+039|language_mode|The student requests a Hindi version of the question.
+040|no_error|Golden rice provides beta-carotene, a precursor of vitamin A. Option C is correct.
+041|not_actionable|The report gives no specific issue. The keyed answer, Julius von Sachs, matches the question.
+042|wrong_chapter|The stem tests displacement current in a capacitor. Faculty should confirm the electromagnetism chapter.
+043|no_error|The combined drop has 64 times the charge and 16 times the area. Its charge density is four times larger.
+044|no_error|Relative to infinity, the potentials are 22 V at P and 8 V at S. The requested difference is 14 V.
